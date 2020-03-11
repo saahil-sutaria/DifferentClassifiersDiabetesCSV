@@ -1,4 +1,4 @@
-<h1>Classifying whether the patient has diabetes or not.</h1>
+<h1>Classifier whether the patient has diabetes or not.</h1>
 
 3 different classifiers used.
 Knn, Naive Bayes, Logistic regression 
